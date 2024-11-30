@@ -30,5 +30,4 @@ python manage.py runserver
 
 
 
-![Application Screenshot](https://raw.githubusercontent.com/Rohitbijwe9/File-management-system/1c6a60ee0f4943bf654276f5902cff615ee3d305/Screenshot%202024-11-30%20192022.png)
-
+![Alt Text](https://raw.githubusercontent.com/Rohitbijwe9/File-management-system/1c6a60ee0f4943bf654276f5902cff615ee3d305/Screenshot%202024-11-30%20192022.png)
