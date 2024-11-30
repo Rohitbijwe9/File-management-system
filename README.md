@@ -29,7 +29,6 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-<img width="917" alt="Screenshot 2024-09-05 142118" src="https://github.com/user-attachments/assets/c955941b-5c98-4404-a47b-7d35ca98ebb0">
-
+<img width="917" alt="Screenshot 2024-11-30 192022" src="https://raw.githubusercontent.com/Rohitbijwe9/File-management-
 
 ![Alt Text](https://raw.githubusercontent.com/Rohitbijwe9/File-management-system/1c6a60ee0f4943bf654276f5902cff615ee3d305/Screenshot%202024-11-30%20192022.png)
