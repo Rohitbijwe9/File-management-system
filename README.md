@@ -30,5 +30,5 @@ python manage.py runserver
 
 
 
-![image  alt](https://github.com/Rohitbijwe9/File-management-system/blob/1c6a60ee0f4943bf654276f5902cff615ee3d305/Screenshot%202024-11-30%20192022.png
-)
+![Image Alt Text](https://github.com/Rohitbijwe9/File-management-system/blob/1c6a60ee0f4943bf654276f5902cff615ee3d305/Screenshot%202024-11-30%20192022.png)
+
