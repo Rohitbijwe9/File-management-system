@@ -18,23 +18,21 @@ Data Drive System is a web-based file management system built using Django. It a
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/nawaz-07/Data-Drive-System.git
-    cd data-drive-system
+git clone https://github.com/Rohitbijwe9/File-management-system.git
+cd File-management-system/Data-Drive-System
     ```
 
 2. Create a virtual environment and install dependencies:
 
-    ```bash
+    
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     pip install -r requirements.txt
-    ```
+    
 
 3. Apply database migrations:
 
-    ```bash
     python manage.py migrate
-    ```
 
 4. Create a superuser account to access the admin panel (optional):
 
@@ -44,9 +42,7 @@ Data Drive System is a web-based file management system built using Django. It a
 
 5. Start the development server:
 
-    ```bash
     python manage.py runserver
-    ```
 
 6. Access the web application at [http://localhost:8000](http://localhost:8000).
 
@@ -69,15 +65,3 @@ Data Drive System is a web-based file management system built using Django. It a
 - `static`: Static files (CSS, JavaScript, etc.).
 - `media`: User-uploaded files.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- [Django Documentation](https://docs.djangoproject.com/): Official Django documentation.
-- [Bootstrap](https://getbootstrap.com/): Bootstrap CSS framework for styling.
-- [Font Awesome](https://fontawesome.com/): Icons used in the user interface.
-
-## Author
-- [Nawaz Ansari](https:/https://github.com/nawaz-07)
-
-Feel free to add more sections or details to this `readme.md` file as needed for your project documentation.
