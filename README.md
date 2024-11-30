@@ -29,4 +29,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
+Screenshot 2024-11-30 192022.png
+
+
 
